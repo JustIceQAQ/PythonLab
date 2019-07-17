@@ -1,2 +1,2 @@
 # PythonLab
-Python
+This is Python Lab.
